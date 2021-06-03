@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A nevv-yeares-gift for His Maiesty, or, An humble petition from his svbiects being principally intended for His Majesties private meditation, but the way of presenting being difficult, it is thought convenient to communicate it to the publike view.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70713</idno><idno type="EEBO-CITATION">12099719</idno>
+  <idno type="VID">54062</idno>
+  <idno type="EEBO-PROQUEST">2240937767</idno>
+  
+            <idno type="STC">Wing N799</idno>
+            <idno type="STC">ESTC R15111</idno>
+            <idno type="OCLC">12099719</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A70713)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54062)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 242:E81, no 5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A nevv-yeares-gift for His Maiesty, or, An humble petition from his svbiects being principally intended for His Majesties private meditation, but the way of presenting being difficult, it is thought convenient to communicate it to the publike view.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:54062:1"/>
+            <p>A Nevv-yeares-Gift For His MAIESTY, OR <hi>An humble Petition from his</hi> SVBIECTS.</p>
+            <p>Being principally intended for His Ma<g ref="char:EOLhyphen"/>jesties private Meditation, but the way of presenting being difficult, it is thought convenient to communicate it to the publike view.</p>
+            <q>
+               <l>Weake meanes great things may cause with little cost,</l>
+               <l>When greater meanes have been but labour lost.</l>
+            </q>
+            <p>Printed in the yeare, 1644</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:54062:2"/>
+            <head>The Epistle to the Reader.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>THe wayes of the providence of God are very strict towards most men: we have seene the wayes and meanes that have been used to regaine His Majesty, but all have failed hi<g ref="char:EOLhyphen"/>therto, and who knowes under what stone this treasure lieth; it is not amisse therefore to turne every stone that hath any probability of gaine in it, and who can tell whether such a vanity as this may not effect that which the greatest meanes have been too weak to do: if it faile in its particuler occasion for which it was intended, yet it may do thee good, to whom it is commended,</p>
+            <closer>
+               <signed>By a well wisher of peace with truth.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:54062:2"/>
+            <head>A <hi>Newyears-Gift</hi> for His MAjESTY: Or, the Poets Petition to the KI</head>
+            <lg>
+               <l>DRead Sovereigne, <hi>Britains</hi> Monarch, <hi>Charles</hi> the Great,</l>
+               <l>Whom God hath set in the Imperiall seat</l>
+               <l>Of three late famous, now distracted Lands,</l>
+               <l>And hath delivered up into thy hands</l>
+               <l>Their Crownes and Scepters, heare we Thee intreat</l>
+               <l>The humble sute, which with affections great</l>
+               <l>We, a small number of thy Subjects true,</l>
+               <l>In humble sort present unto thy view;</l>
+               <l>We have beheld with sad and grieved hearts</l>
+               <l>How all thy Subjects from their severall parts</l>
+               <l>Have Su<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers bin unto thy Grace of late,</l>
+               <l>For ease and comfort to this dying State;</l>
+               <l>Yet we among them all have never yet</l>
+               <l>Ingaged our studies, nor imploy'd our wit</l>
+               <l>To seek unto your Highnesse for redresse,</l>
+               <l>Therefore we are imboldened to expresse</l>
+               <l>Our hearts desires now unto your Grace,</l>
+               <l>Whiles others fears doe to their hopes give place,</l>
+               <l>Yet hope we doe that you will daine to heare</l>
+               <l>That which doth now concerne your Selfe so neare;</l>
+               <l>Our fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st request which we are bold to make</l>
+               <l>Unto your Highnesse is, that you would take</l>
+               <pb n="2" facs="tcp:54062:3"/>
+               <l>Into your serious thoughts the sad estate</l>
+               <l>That all your Kingdomes are brought to of late:</l>
+               <l>Consider with your Selfe the griefe and woe</l>
+               <l>That many thousands daily undergoe;</l>
+               <l>The groans of wounded, bleeding, dying men;</l>
+               <l>The cries of widows, fatherlesse, and then</l>
+               <l>The bitter wants that many doe endure,</l>
+               <l>Whose trades were wont their comfort to procure:</l>
+               <l>The cruell havock, and the desolation</l>
+               <l>That now is made in all parts of this Nation:</l>
+               <l>The sad effects that doe on War attend,</l>
+               <l>The streams of bloud that English men doe spend</l>
+               <l>In kil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing and destroying one another,</l>
+               <l>Father against children, brother against brother:</l>
+               <l>And having set before your Princely Eye</l>
+               <l>The vision of your peoples misery,</l>
+               <l>Then if to them you beare a Princely love,</l>
+               <l>If any pity will your Spirit move;</l>
+               <l>As in your breast compassion hath a place,</l>
+               <l>Thinke how to ease them of this wofull case:</l>
+               <l>Your humble Suters will not undertake</l>
+               <l>For to prescribe the way that you should take;</l>
+               <l>We know the way and means to you is known,</l>
+               <l>Would you be pleas'd such noble wayes to owne;</l>
+               <l>We know you know that you might in one day</l>
+               <l>Your Kingdomes hopes revive, their fears destroy:</l>
+               <l>You might by comming to your Parliament</l>
+               <l>In friendly sort, in love, peace and content</l>
+               <l>Expell our woes, and stop that stream of bloud</l>
+               <l>Which now runs down even like a swelling <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oud;</l>
+               <l>You might by this neale our deep gasping wound,</l>
+               <l>And make your mournfull dying Kingdomes sound▪</l>
+               <pb n="3" facs="tcp:54062:3"/>
+               <l>And what were this to do, were it, O King,</l>
+               <l>Your Selfe to thraldome, or disgrace to bring!</l>
+               <l>Would it impaire you credit or degree,</l>
+               <l>Or make you lesse esteem'd or lov'd to be▪</l>
+               <l>Would it your titles or your state destroy,</l>
+               <l>Or would your dignities thereby decay?</l>
+               <l>Would it your Honour or your Selfe defame,</l>
+               <l>Or bring you unto poverty or shame?</l>
+               <l>Would it debar your just Prerogative,</l>
+               <l>Or you of any lawfull power deprive?</l>
+               <l>No, no, it would not, but if any thing</l>
+               <l>Would make you lov'd and honour'd as a King,</l>
+               <l>This, this, would make you honour'd and renown'd,</l>
+               <l>Your name unto all ages would be crown'd</l>
+               <l>With lasting Fame and Honour, and this age</l>
+               <l>To honour you, you deeply would ingage:</l>
+               <l>Now if your honour and your dignity,</l>
+               <l>Your riches, credit, and prosperity,</l>
+               <l>Be in your peoples welfare thus involv'd,</l>
+               <l>That both if one cannot but be dissolv'd;</l>
+               <l>What fear, yea what sadnesse then doth make</l>
+               <l>Your Majesty this severe course to take</l>
+               <l>Your peoples intrest in you to destroy,</l>
+               <l>And in them your owne safety, peace and joy;</l>
+               <l>You in your wisdome call'd a Parliament,</l>
+               <l>The Nation chose them with a free consent;</l>
+               <l>And to them gave their power: they sate, and you</l>
+               <l>To them much grace and love (did seem) to shew;</l>
+               <l>You in your solemne weighty Declarations,</l>
+               <l>Your Oaths and Vows, and con<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tant Protestation<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>Were alwayes plea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'d their welfare to include,</l>
+               <l>All thoughts of spleen (you see<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d) to exclude▪</l>
+               <pb n="4" facs="tcp:54062:4"/>
+               <l>And past an Act them not dissolv'd to be</l>
+               <l>Till they themselves should thereunto agree;</l>
+               <l>But now that you should in so short a space</l>
+               <l>Exclaime all those your former acts of Grace,</l>
+               <l>And seek by all the force and power you may</l>
+               <l>Them (and all those that love them) to destroy,</l>
+               <l>A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Rebels, Traytors, them esteem to be,</l>
+               <l>This seems a ridle to all honesty;</l>
+               <l>This makes your Subjects thinke they know not wh<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+               <l>Your Honour hereby gaineth many a spot:</l>
+               <l>We hope that you your Subjects poore will pity,</l>
+               <l>And take compassion on your famous City;</l>
+               <l>We hope such love you to your Selfe doe beare</l>
+               <l>As not your bowells from your Selfe to teare;</l>
+               <l>We hope your Children and Posterity</l>
+               <l>(Which objects are of future misery)</l>
+               <l>Will so incline and move your Princely Heart</l>
+               <l>That you will from your present counsells part,</l>
+               <l>And wisely ere more guiltlesse bloud be spent</l>
+               <l>Come joyne your Selfe with your grave Parliament,</l>
+               <l>That so just judgement may be done on those</l>
+               <l>That are to You, and to your Kingdomes, foe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</l>
+               <l>O that your Grace would ponder in your Heart</l>
+               <l>What 'tis we crave, from what wee'd have you part!</l>
+               <l>Suppose you should hereby procure the ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</l>
+               <l>Of those that seeke the ruine of the State,</l>
+               <l>Or should in<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ence that base malignant <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rew</l>
+               <l>That seek the down fall of your Lands and you,</l>
+               <l>Or reap hereby disgrace, reproach and shame,</l>
+               <l>Or staine your credit, honour or your fame:</l>
+               <l>What then, O King! should there be grounds to c<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>se</l>
+               <l>Your Majesty to violate the Lawes</l>
+               <pb n="5" facs="tcp:54062:4"/>
+               <l>Of God, of Nature, and of reason right,</l>
+               <l>And in defiance of them all to fight?</l>
+               <l>What, is your Honour and your Reputation</l>
+               <l>Of greater value then a famous Nation▪</l>
+               <l>Or doe you deem your credit at that rate</l>
+               <l>To be preferr'd before a Christian State?</l>
+               <l>Or is your Will and Humour better then</l>
+               <l>The lives and soules of many thousand men?</l>
+               <l>What, shall such fugitives from Justice be</l>
+               <l>More fear'd and lov'd in such a high degree,</l>
+               <l>Above all your grave Counsellors of State</l>
+               <l>Which all disloyalty detest and hate?</l>
+               <l>O King, consider in what state you stand,</l>
+               <l>Call to your minde the state of <hi>Ireland,</hi>
+               </l>
+               <l>And thinke on whom that just revenging hand</l>
+               <l>Will vengeance take for that destroyed Land;</l>
+               <l>Looke upon <hi>Scotland</hi> with a carefull eye,</l>
+               <l>And see how they your doings doe defie,</l>
+               <l>See how they covenanted have again▪</l>
+               <l>And will not cease War till they Peace obtaine:</l>
+               <l>Looke upon <hi>England,</hi> see with what content</l>
+               <l>They joyned have with <hi>Scotlands</hi> Covenant,</l>
+               <l>And now they joyntly with each other stand,</l>
+               <l>Lest they become like dying <hi>Ireland:</hi>
+               </l>
+               <l>O that these arguments would you perswade</l>
+               <l>Over all difficulties for to wade!</l>
+               <l>And that you would not this our sute despise</l>
+               <l>To joyne with your great Councell grave and wise,</l>
+               <l>Which is the only means that you can take</l>
+               <l>Your Selfe and Yours happy for to make.</l>
+               <l>Returne, returne, O <hi>Englands</hi> King returne!</l>
+               <l>Thy Subjects hearts with loyall love doe burne:</l>
+               <pb n="6" facs="tcp:54062:5"/>
+               <l>We weepe, we fast, we pray, we strive a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>aine</l>
+               <l>To set our King upon His Throne againe:</l>
+               <l>And this our Christian labour nere shall cease</l>
+               <l>Till Thou returne, or we have perfect peace;</l>
+               <l>Which that our God may send, both night and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y</l>
+            </lg>
+            <closer>They your Petitioners shall ever pray.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
